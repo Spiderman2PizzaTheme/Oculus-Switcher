@@ -1,0 +1,5 @@
+@ECHO OFF
+C:\ChangeAudioDevice\nircmdc setdefaultsounddevice "HeadphonesNameHere" 2
+C:\ChangeAudioDevice\nircmdc setdefaultsounddevice "HeadsetMicNameHere" 2
+C:\ChangeAudioDevice\nircmdc setdefaultsounddevice "HeadphonesNameHere" 1
+C:\ChangeAudioDevice\nircmdc setdefaultsounddevice "HeadsetMicNameHere" 1

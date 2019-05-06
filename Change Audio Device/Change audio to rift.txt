@@ -1,0 +1,5 @@
+@ECHO OFF
+C:\ChangeAudioDevice\nircmdc setdefaultsounddevice "Rift Headphones" 2
+C:\ChangeAudioDevice\nircmdc setdefaultsounddevice "Rift Mic" 2
+C:\ChangeAudioDevice\nircmdc setdefaultsounddevice "Rift Headphones" 1
+C:\ChangeAudioDevice\nircmdc setdefaultsounddevice "Rift Mic" 1
